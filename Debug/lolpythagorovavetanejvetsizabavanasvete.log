@@ -1,0 +1,9 @@
+﻿  lolpythagorovavetanejvetsizabavanasvete.cpp
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(22,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(42,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(43,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(44,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(52,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete\lolpythagorovavetanejvetsizabavanasvete.cpp(53,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lolpythagorovavetanejvetsizabavanasvete.vcxproj -> C:\Users\lukesja\source\repos\lolpythagorovavetanejvetsizabavanasvete\Debug\lolpythagorovavetanejvetsizabavanasvete.exe
